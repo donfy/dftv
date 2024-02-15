@@ -17,7 +17,7 @@
       "type": 0,
       "boot":true,
       // "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/donfy/dftv/main/m3u/live-online.m3u",
-      "url": "./m3u/new.txt",
+      "url": "./m3u/new.txt?{date}",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     },
     {
