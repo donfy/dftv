@@ -4,7 +4,7 @@
 东方财经, http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
 CCTV-11 戏曲, http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
 
-温州,#genre#
+温州1,#genre#
 温州电视台,https://live.wzqmt.com/wztv1/sd/live.m3u8
 
 央视频道,#genre#
