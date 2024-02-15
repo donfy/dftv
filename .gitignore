@@ -1,0 +1,12 @@
+target/
+.classpath
+.project
+.DS_Store
+.settings/
+.idea*
+.idea/*
+\.idea/*
+*.iml
+*.log
+*.releaseBackup
+release.properties
