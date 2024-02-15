@@ -1,7 +1,6 @@
 
 上海,#genre#
-#东方卫视, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-test${(e)yyyyMMddHHmmss}, https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=9b363e72f52df01a9d714372ca197ab9&volcTime=1708071601
+东方卫视, http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方财经, http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
 CCTV-11 戏曲, http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
 
