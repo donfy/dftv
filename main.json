@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "世界杯",
-      "name": "DF",
+      "name": "DF在线",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
@@ -13,7 +13,7 @@
   ],
   "lives": [
     {
-      "name": "DF",
+      "name": "DF在线",
       "type": 0,
       "boot":true,
       // "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/donfy/dftv/main/m3u/live-online.m3u",
