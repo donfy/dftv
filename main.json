@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "世界杯",
-      "name": "DF在线",
+      "name": "DF",
       "type": "3",
       "api": "csp_Dora",
       "searchable": "1",
