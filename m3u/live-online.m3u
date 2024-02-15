@@ -1,6 +1,13 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #⏰更新时间2024/01/28
 
+#EXTINF:-1 tvg-id="AA1" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="上海",东方卫视
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="AA2" tvg-name="东方财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/dfcj.png" group-title="上海",东方财经
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
+#EXTINF:-1 tvg-id="AA3" tvg-name="CCTV11" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV11.png" group-title="上海",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
+
 #EXTINF:-1 tvg-id="D01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="🌏国际频道",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 #EXTINF:-1 tvg-id="D02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="🌏国际频道",凤凰资讯
@@ -833,7 +840,7 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/mast
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/镜新闻.png" group-title="⚠码上油管",镜新闻
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="⚠码上油管",中视新闻
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="⚠f'f",中视新闻
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/CRUX.png" group-title="⚠码上油管",CRUX
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
@@ -845,9 +852,3 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/mast
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
 #EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/Taiwan+.png" group-title="⚠码上油管",Taiwan+
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-
-
-#EXTINF:-1 group-title="🎧抖音直播",王者荣耀
-https://golangtv.xiao3.cloudns.org/douyin/82485729980
-#EXTINF:-1 group-title="🎧抖音直播",张大仙
-https://golangtv.xiao3.cloudns.org/douyin/63592101250
