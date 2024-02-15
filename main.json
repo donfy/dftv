@@ -273,7 +273,7 @@
       "name": "自用直播",
       "type": 0,
       "boot":true,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/donfy/dftv/m3u/live-online.m3u",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/donfy/dftv/main/m3u/live-online.m3u",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
